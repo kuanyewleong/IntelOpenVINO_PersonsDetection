@@ -1,0 +1,2 @@
+An example of compiled .exe with its dependencies DLLs are provided here.
+Run the program by the caller (.cmd file), and specify the model and camera ID.
