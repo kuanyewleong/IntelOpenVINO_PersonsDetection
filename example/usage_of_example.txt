@@ -1,2 +1,5 @@
 An example of compiled .exe with its dependencies DLLs are provided here.
 Run the program by the caller (.cmd file), and specify the model and camera ID.
+
+
+You will need to download opencv_world401.dll to run the .exe.
