@@ -1,0 +1,1 @@
+Intel_Person_Detection_from_camera.exe 0 "D:\Computer_Vision_Project\IntelModels\face-detection-retail-0004.xml"
