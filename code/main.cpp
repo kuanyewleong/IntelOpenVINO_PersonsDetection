@@ -1,5 +1,5 @@
 /*
-This is just the main cpp file
+This is the main cpp file
 
 */
 #include <gflags/gflags.h>
