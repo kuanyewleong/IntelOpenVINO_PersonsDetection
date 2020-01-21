@@ -6,5 +6,5 @@ To compile the main.cpp, you will need to download and install Intel Open VINO A
 Example of the executable for Windows with the dependencies DLLs are given here.
 This example is built for use with a webcam to detect persons based on the chosen model (a caller .cmd file is provider to call the .exe and select the camera ID and the model file).
 
-You may download the models here: https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
+You may download the model files here: https://software.intel.com/en-us/openvino-toolkit/documentation/pretrained-models
 
